@@ -1,1 +1,3 @@
-# RuthlessElements
+这是一个独立游戏。
+
+主要目的用于找工作。
